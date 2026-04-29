@@ -1,0 +1,11 @@
+.panelLight {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+
+.panelDark {
+    background-color: rgb(58, 58, 58);
+    color: black;
+    border: 1px solid white;
+}
